@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-Using-Machine-Learning-
+# Customer-Churn-Prediction-
 - Predicted customer churn using machine learning models.
 - Preprocessed and analyzed data with EDA.
 - Applied classifiers: Logistic Regression, Random Forest, etc.
